@@ -1,0 +1,26 @@
+body{
+background-color:coral;
+color:darkblue;
+}
+.heading{
+width:80%;
+font-size: 30px;
+}
+#camera{
+border-color: black;
+border-style: groove;
+border-width: 7px;
+width: 350px;
+height: 250px;
+}
+#result_object, #result_accuracy{
+color:darkred;
+}
+.name_of_objects{
+font-size:25px;
+color: black;
+}
+label{
+font-size: 25px;
+color: indigo;
+}
